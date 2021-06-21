@@ -25,5 +25,5 @@
 3. Copy the ESP Template code to your own folder.
 4. Add libraries to the lib folder.
 5. Include library in the sensor.h file.
-6. You can code in the sensor.cpp file. (In the function "sensorSetup()" you can add the code that you normaly place in the "setup()" function, in the function "sensorCode()" you can add the code that you normaly place in the "loop()" function.)
+6. You can code in the `sensor.cpp` file. (In the function `sensorSetup()` you can add the code that you normaly place in the `setup()` function, in the function `sensorCode()` you can add the code that you normaly place in the `loop()` function.)
 7. see "Flashing to ESP" to flash your code.
